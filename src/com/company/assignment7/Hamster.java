@@ -14,6 +14,7 @@ public class Hamster extends Rodent{
     @Override
     public void run() {
         System.out.println("I run in between");
+
     }
 
     @Override

@@ -6,5 +6,6 @@ public class Node <E>{
     public Node(Node<E> next, E item) {
         this.next = next;
         this.item = item;
+
     }
 }
