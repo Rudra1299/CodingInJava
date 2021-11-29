@@ -19,6 +19,7 @@ public class CharacterCheking {
             }
             else{
                 continue;
+
             }
 
             alphabets[index] = true;
