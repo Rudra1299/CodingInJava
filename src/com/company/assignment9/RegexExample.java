@@ -15,7 +15,7 @@ public class RegexExample {
             System.out.println("The sentence starts with Capital letters and ends with period.");
         }
         else {
-            System.out.println("sentence does not start with Capital letters and ends with period");
+            System.out.println("The sentence does not start with Capital letters and ends with period");
         }
 
     }
