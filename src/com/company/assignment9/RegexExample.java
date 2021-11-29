@@ -17,5 +17,6 @@ public class RegexExample {
         else {
             System.out.println("sentence does not start with Capital letters and ends with period");
         }
+
     }
 }
